@@ -1,0 +1,12 @@
+Hand written character Recognition with Machine Learning and Tensor flow CNN Models in Python Jupyter Notebook
+Please check the below scope to run this file.
+1- You must have to install anaconda and Jupyter Python (3.74 version or latest version)
+2- Install all the packages in the Anaconda CMD
+3- Download the data set from Dropbox link  
+4- Set the Path for Dataset in the Python file
+4- Download the Image or you can use your personal hand written image for test 
+5- In the last "img = cv2.imread(r'A.jpg')" this is the path I used for Image and you can use your own image for that.
+5- You can run your file and finally would get the results
+
+Thank you !
+Please give me good wishes if you will like
