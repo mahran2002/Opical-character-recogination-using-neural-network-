@@ -7,6 +7,4 @@ Please check the below scope to run this file.
 4- Download the Image or you can use your personal hand written image for test 
 5- In the last "img = cv2.imread(r'A.jpg')" this is the path I used for Image and you can use your own image for that.
 5- You can run your file and finally would get the results
-
 Thank you !
-Please give me good wishes if you will like
